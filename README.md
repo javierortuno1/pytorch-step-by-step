@@ -28,3 +28,12 @@
 - Understanding the different parts structures and part of the class able to represent the pipeline
 - Reimplementing training methods: _mini_batch() and train()
 
+## Chapter03.ipynb
+- Classification model
+- Logits
+- logits into probabilities
+- BCELoss
+- Classification Thresholds
+- Separability of classes and how it's related to dimensionality
+- Metrics And Comparing models
+
