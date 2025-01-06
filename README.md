@@ -37,3 +37,18 @@
 - Separability of classes and how it's related to dimensionality
 - Metrics And Comparing models
 
+## Chapter04.ipynb
+- Binary Image classification model from a custom dataset
+- Data Preparation for images, including normalization (scaling the values into a range)
+- Function for allowing Custom datasets to be transformed
+- Transform Pipelines
+- Splitting the data based on the dataset indices
+- Samplers (How to pick data from the dataset), including weighted samplers for imbalanced datasets
+- Data Augmentation
+- Visualizing the weights of hidden layers as sheets that must be multiplied by the Image feature sheets. It can be seen as filters
+- Understanding gradients based on the activation function:
+     - Gradients tell how sensitive (Level of certainty) a layer is about a value based on its current weights
+          - High confidence (Low sensitive) weights will be updated a little bit
+          - Low confidence (high sensitive) weights need to be updated
+- Activation functions and how do they influence a deep model when analyzing the losses
+
