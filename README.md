@@ -52,3 +52,15 @@
           - Low confidence (high sensitive) weights need to be updated
 - Activation functions and how do they influence a deep model when analyzing the losses
 
+## Chapter05.ipynb
+- Multiclass classification problem with images
+- Kernel/filter, stride, padding, and pooling
+- Convolutional block : convolution + activation function + pooling
+- Activation function
+- Loss Analysis
+- Flatten process
+- Visualize learned filters
+- Hooks
+- Visualize feature maps (outputs from each layer)
+- accuracy
+
